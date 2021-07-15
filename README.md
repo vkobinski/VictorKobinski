@@ -1,6 +1,6 @@
 <h1>Sobre mim!</h1>
 
--Estudante do Ensino Médio aspirante a Programador!
+-Estudante do Ensino Médio aspirante a Programador! <br>
 -Apaixonado por JavaScript e Java
 
 <!---
